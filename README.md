@@ -1,4 +1,4 @@
-# SQL-
+# SQL- Sample project for creating table  and inserting data into it
 Create and Inserting data
 Create Database SQLTUTORIAL;
 USE SQLTUTORIAL;
